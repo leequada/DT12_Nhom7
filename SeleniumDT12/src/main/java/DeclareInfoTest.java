@@ -146,6 +146,9 @@ public class DeclareInfoTest {
         driver.findElement(By.xpath("//*[@id=\"j_idt73_3\"]")).click();
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
 
     }
@@ -198,6 +201,9 @@ public class DeclareInfoTest {
         driver.findElement(By.xpath("//*[@id=\"j_idt73_3\"]")).click();
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
     }
     @Test
@@ -250,6 +256,9 @@ public class DeclareInfoTest {
         driver.findElement(By.xpath("//*[@id=\"j_idt73_3\"]")).click();
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
     }
     @Test
@@ -302,6 +311,9 @@ public class DeclareInfoTest {
         driver.findElement(By.xpath("//*[@id=\"j_idt73_3\"]")).click();
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
     }
     @Test
@@ -354,6 +366,9 @@ public class DeclareInfoTest {
         driver.findElement(By.xpath("//*[@id=\"j_idt73_3\"]")).click();
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
     }
     @Test
@@ -406,6 +421,9 @@ public class DeclareInfoTest {
         driver.findElement(By.xpath("//*[@id=\"j_idt73_3\"]")).click();
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
     }
     @Test
@@ -458,6 +476,9 @@ public class DeclareInfoTest {
         driver.findElement(By.xpath("//*[@id=\"j_idt73_3\"]")).click();
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
     }
     @Test
@@ -510,6 +531,9 @@ public class DeclareInfoTest {
         driver.findElement(By.xpath("//*[@id=\"j_idt73_3\"]")).click();
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
     }
     @Test
@@ -562,6 +586,9 @@ public class DeclareInfoTest {
         driver.findElement(By.xpath("//*[@id=\"j_idt73_3\"]")).click();
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
     }
     @Test
@@ -666,6 +693,9 @@ public class DeclareInfoTest {
         driver.findElement(By.xpath("//*[@id=\"j_idt73_3\"]")).click();
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
     }
     @Test
@@ -718,6 +748,9 @@ public class DeclareInfoTest {
 
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
     }
     @Test
@@ -771,6 +804,9 @@ public class DeclareInfoTest {
         driver.findElement(By.xpath("//*[@id=\"j_idt73_3\"]")).click();
         Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id=\"j_idt93\"]/span[2]")).click();
+        String name = driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/ul/li[3]/a")).getText();
+
+        assertEquals("fail",name);
 
     }
 
